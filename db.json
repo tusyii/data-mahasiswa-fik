@@ -1,121 +1,121 @@
 {
   "mahasiswa": [
     {
-      "id": "7",
+      "id": 1,
       "nim": "23040002",
       "nama": "Amelia Zahra",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "8",
+      "id": 2,
       "nim": "23040004",
       "nama": "Akbar Maulana",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "9",
+      "id": 3,
       "nim": "23040005",
       "nama": "Reni Ramadhani Sabila",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "11",
+      "id": 4,
       "nim": "23040008",
       "nama": "Tusi Heruni Agustin",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "12",
+      "id": 5,
       "nim": "23040009",
       "nama": "Rahma Putri Ramadhani",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "13",
+      "id": 6,
       "nim": "23040010",
       "nama": "Esa Aulia Putri",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "14",
+      "id": 7,
       "nim": "23040011",
       "nama": "Siti Ikromah",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "15",
+      "id": 8,
       "nim": "23040013",
       "nama": "Dinda Nurhasanah",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "16",
+      "id": 9,
       "nim": "23040014",
       "nama": "Nila Rohmanila",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "19",
+      "id": 10,
       "nim": "23040017",
       "nama": "Cindy Aulia Safety Perempuan",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "22",
+      "id": 22,
       "nim": "23040020",
       "nama": "Nurfadilla",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "24",
+      "id": 11,
       "nim": "23040022",
       "nama": "Fitriana",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "25",
+      "id": 12,
       "nim": "23040023",
       "nama": "Salma Aura Noviyanti",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "26",
+      "id": 13,
       "nim": "23040049",
       "nama": "Hilda Nurafridhita Setia",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "27",
+      "id": 14,
       "nim": "23040050",
       "nama": "Husnul Hotimah",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "30",
+      "id": 15,
       "nim": "23040055",
       "nama": "Siti Linda Nur Fadilah",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "31",
+      "id": 16,
       "nim": "23040068",
       "nama": "Nani Irnasari",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "33",
+      "id": 17,
       "nim": "23041015",
       "nama": "Ratu Halimatussa'diah",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "35",
+      "id": 18,
       "nim": "23041026",
       "nama": "Siti Suheriyah",
       "jurusan": "Teknik Informatika"
     },
     {
-      "id": "36",
+      "id": 19,
       "nim": "24040002",
       "nama": "Nayla Eka Putri Alfahira",
       "jurusan": "Teknik Informatika"
